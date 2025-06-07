@@ -12,7 +12,7 @@ Demo: https://www.youtube.com/watch?v=5J_zKw9KYZM
 
 #### Overview
 
-The **Word Document Analyzer** is an interactive web application built with Streamlit that allows users to upload a DOCX file, extract its content, and ask questions about the document using advanced AI models. The application integrates LangChain for text processing and Google Generative AI models for answering user queries. It is a simple and efficient tool for analyzing the contents of documents and retrieving relevant information.
+The **PDF Document Analyzer** is an interactive web application built with Streamlit that allows users to upload a PDF file, extract its content, and ask questions about the document using advanced AI models. The application integrates LangChain for text processing and Google Generative AI models for answering user queries. It is a simple and efficient tool for analyzing the contents of documents and retrieving relevant information.
 
 ---
 
